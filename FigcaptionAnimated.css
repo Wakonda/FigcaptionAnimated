@@ -1,0 +1,14 @@
+figure {
+	display: block;
+	position: relative;
+	overflow: hidden;
+}
+
+figcaption {
+	display: block;
+	padding: 10px;
+	position: absolute;
+	color: #FFFFFF;
+	font: 15px 'Times New Roman', sans-serif;
+	background: rgba(0,0,0,.5);
+}
